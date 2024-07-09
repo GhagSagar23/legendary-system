@@ -1,22 +1,19 @@
-# food_ui_transition
+### [Pizza App](https://github.com/GhagSagar23/legendary-system/tree/develop/pizzaapp)
 
-A Cook qwest UI with very awesome animations and transitions buit in Flutter.
-![Screenshot 2023-08-14 at 9 53 08 PM](https://github.com/SwaroopSambhayya/Food-UI-Transition/assets/31922733/203f1684-d6bd-481a-b890-af16c5a5b5e1)
-![Screenshot 2023-08-14 at 9 52 56 PM](https://github.com/SwaroopSambhayya/Food-UI-Transition/assets/31922733/6a25d3d1-e462-462f-957a-ab57e5f30959)
+The **Pizza App** is a delightful food ordering application that allows users to browse a variety of pizzas, customize their orders, and place them seamlessly. This app offers a range of features to enhance the user experience and make ordering pizza a fun and convenient process.
 
-https://github.com/SwaroopSambhayya/Food-UI-Transition/assets/31922733/72d0781d-3d21-4265-ae4f-cfa5783e915d
+#### Key Features:
 
+- **Pizza Selection**: Browse a wide selection of pizzas with detailed descriptions and images.
+- **Customization Options**: Customize pizzas with toppings, crusts, and sizes to suit your preferences.
+- **Order Placement**: Place orders quickly and securely with a few taps on the app.
 
-## Getting Started
+#### Technologies Used:
 
-This project is a starting point for a Flutter application.
+- **Flutter**: Building a visually appealing and interactive user interface with Flutter.
+- **Dart**: Writing clean and efficient code with Dart programming language.
+- **Firebase**: Integrating Firebase for real-time database and authentication.
 
+#### Screenshots:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home Screen](screenshots/pizza_app.gif)
