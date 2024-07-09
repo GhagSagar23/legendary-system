@@ -85,6 +85,25 @@ The **Food Order App** is a convenient and user-friendly platform for ordering f
 
 ![Home Screen](foodorderapp/screenshots/food_order_app.gif)
 
+### 5. [Parallex App](https://github.com/GhagSagar23/legendary-system/tree/develop/parallex)
+
+The **Parallex App** is a visually stunning application that showcases the parallax effect in Flutter. This app features a captivating parallax effect on images, creating a sense of depth and immersion for users. The Parallex App demonstrates the power of Flutter in creating engaging and interactive user experiences.
+
+#### Key Features:
+
+- **Parallax Effect**: Implementing a parallax effect on images for a visually appealing interface.
+- **Interactive Design**: Engaging users with dynamic and interactive elements.
+- **Smooth Animations**: Creating seamless animations to enhance the user experience.
+
+#### Technologies Used:
+
+- **Flutter**: Leveraging Flutter's animation capabilities to create dynamic user interfaces.
+- **Dart**: Writing clean and efficient code with Dart programming language.
+
+#### Screenshots:
+
+![Home Screen](parallexapp/screenshots/parallex_app.gif)
+
 ## About Me
 
 I am Sagar, a Flutter Tech Lead with extensive experience in mobile app development. Over the past six years, I've honed my skills in iOS and Flutter development, leading a team of talented developers to create high-quality applications. My passion for long motorcycle rides, swimming, and exploring new music genres fuels my creativity and drive in the tech world.
