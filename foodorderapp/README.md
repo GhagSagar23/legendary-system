@@ -1,16 +1,16 @@
-### [Pizza App](https://github.com/GhagSagar23/legendary-system/tree/develop/pizzaapp)
+### [Food Order App](https://github.com/GhagSagar23/legendary-system/tree/develop/foodorderapp)
 
-The **Pizza App** is a delightful food ordering application that allows users to browse a variety of pizzas, customize their orders, and place them seamlessly. This app offers a range of features to enhance the user experience and make ordering pizza a fun and convenient process.
+The **Food Order App** is a convenient and user-friendly platform for ordering food from a variety of restaurants. This app offers a range of features to simplify the food ordering process, provide detailed restaurant information, and ensure a seamless user experience.
 
 #### Key Features:
 
-- **Pizza Selection**: Browse a wide selection of pizzas with detailed descriptions and images.
-- **Customization Options**: Customize pizzas with toppings, crusts, and sizes to suit your preferences.
-- **Order Placement**: Place orders quickly and securely with a few taps on the app.
+- **Restaurant Selection**: Browse a list of restaurants, view menus, and select items to order.
+- **Order Customization**: Customize food items with options, quantities, and special instructions.
+- **Order Placement**: Place orders securely and track delivery status in real-time.
 
 #### Technologies Used:
 
-- **Flutter**: Building a visually appealing and interactive user interface with Flutter.
+- **Flutter**: Developing a responsive and visually appealing user interface with Flutter.
 - **Dart**: Writing clean and efficient code with Dart programming language.
 - **Firebase**: Integrating Firebase for real-time database and authentication.
 
