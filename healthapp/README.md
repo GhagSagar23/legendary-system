@@ -1,20 +1,20 @@
-# health_app
+### [Health App](https://github.com/GhagSagar23/legendary-system/tree/develop/healthapp)
 
-A new Flutter project.
+The **Health App** is the first application in this repository, demonstrating a robust and user-friendly platform for managing personal health and wellness. This app offers a range of features to help users track their fitness activities, monitor vital health metrics, and achieve their health goals.
 
-## Getting Started
+#### Key Features:
 
-This project is a starting point for a Flutter application.
+- **Activity Tracking**: Log daily activities such as walking, running, and cycling.
+- **Health Metrics**: Monitor vital signs like heart rate, blood pressure, and more.
+- **Goals and Reminders**: Set health goals and receive reminders to stay on track.
+- **User-Friendly Interface**: Enjoy an intuitive and seamless user experience.
 
-A few resources to get you started if this is your first Flutter project:
+#### Technologies Used:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Leveraging the power of Flutter for a smooth and responsive cross-platform app.
+- **Dart**: Implementing efficient and maintainable code with Dart.
+- **Firebase**: Integrating Firebase for real-time database and authentication.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Screenshots:
 
-# healthapp
-![Home Screen](screenshots/flutter_01.png)
-![Profile Screen](screenshots/flutter_02.png)
+![Home Screen](screenshots/health_app/health_app.gif)
