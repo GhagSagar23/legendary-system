@@ -1,9 +1,19 @@
-# Restaurant/Food Delivery App UI kit in Flutter
+### [Pizza App](https://github.com/GhagSagar23/legendary-system/tree/develop/pizzaapp)
 
-We build Flutter Restaurant/Food delivery app UI Kit to help you build a nice clean app for restaurent using flutter which runs both Android and iOS. This kit comes packed with 25 beautifully designed screens and a hearty portion of deliciously responsive components. Also, we have skeleton loading and have separate components for both Android and iOS so that you feel the native experience.
+The **Pizza App** is a delightful food ordering application that allows users to browse a variety of pizzas, customize their orders, and place them seamlessly. This app offers a range of features to enhance the user experience and make ordering pizza a fun and convenient process.
 
-## Screenshots
+#### Key Features:
 
-![All pages](/preview.png)
+- **Pizza Selection**: Browse a wide selection of pizzas with detailed descriptions and images.
+- **Customization Options**: Customize pizzas with toppings, crusts, and sizes to suit your preferences.
+- **Order Placement**: Place orders quickly and securely with a few taps on the app.
 
-![Preview](/foodly_thun.png)
+#### Technologies Used:
+
+- **Flutter**: Building a visually appealing and interactive user interface with Flutter.
+- **Dart**: Writing clean and efficient code with Dart programming language.
+- **Firebase**: Integrating Firebase for real-time database and authentication.
+
+#### Screenshots:
+
+![Home Screen](screenshots/food_order_app.gif)
