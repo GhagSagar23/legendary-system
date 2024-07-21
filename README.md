@@ -2,6 +2,43 @@
 
 Welcome to the **Legendary System** repository! This repository is a showcase of the various applications I've developed, highlighting my journey and expertise in software development, particularly in Flutter. Here, you'll find innovative and impactful apps designed to solve real-world problems and provide seamless user experiences.
 
+---
+
+## Community Contributions
+
+### 1. [livelyness_detection](https://pub.dev/packages/livelyness_detection)
+
+The `livelyness_detection` package is a Flutter plugin that detects the user's liveliness by analyzing facial expressions and movements. This plugin uses the device's camera to capture the user's face and provides real-time feedback on their liveliness status. The `livelyness_detection` package is ideal for applications that require liveliness detection for security, authentication, or engagement purposes.
+
+#### Key Features:
+
+- **Google ML Kit**: Detects facial expressions such as smiles, frowns, and blinks.
+- **Real-Time Feedback**: Provides instant feedback on the user's liveliness status.
+- **Customizable Thresholds**: Allows developers to set custom thresholds for liveliness detection.
+
+#### Technologies Used:
+
+- **Flutter**: Utilizing Flutter for a responsive and visually appealing user interface.
+- **Dart**: Writing clean and efficient code with Dart programming language.
+- **Google ML Kit**: Leveraging Google ML Kit for facial expression detection.
+
+#### Installation:
+
+To install the `livelyness_detection` package, add the following dependency to your `pubspec.yaml` file:
+
+```yaml
+dependencies:
+  livelyness_detection: ^0.0.1+2
+```
+
+#### Example:
+
+![Livelyness Detection Example](https://raw.githubusercontent.com/GhagSagar23/livelyness_detection/develop/lib/src/assets/demo/livelyness_detection_android.gif)
+
+For detailed usage instructions and examples, refer to the [livelyness_detection package documentation](https://pub.dev/packages/livelyness_detection).
+
+---
+
 ## Current Projects
 
 ### 1. [Health App](https://github.com/GhagSagar23/legendary-system/tree/develop/healthapp)
@@ -104,20 +141,44 @@ The **Parallex App** is a visually stunning application that showcases the paral
 
 ![Home Screen](parallexapp/screenshots/parallex_app.gif)
 
+---
+
 ## About Me
 
 I am Sagar, a Flutter Tech Lead with extensive experience in mobile app development. Over the past six years, I've honed my skills in iOS and Flutter development, leading a team of talented developers to create high-quality applications. My passion for long motorcycle rides, swimming, and exploring new music genres fuels my creativity and drive in the tech world.
+
+---
+
+## Tech Stack
+
+### My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GhagSagar23&show_icons=true&theme=vue-dark)
+
+![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GhagSagar23&theme=vue-dark)
+
+![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhagSagar23&layout=compact&theme=vue-dark)
+
+---
 
 ## Contributing
 
 Contributions are welcome! If you have suggestions, ideas, or enhancements, feel free to open an issue or submit a pull request. Let's collaborate to make these applications even better.
 
+---
+
 ## License
 
 This repository is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+
+---
 
 ## Contact
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ghag23/) or via email at [sagar.ghag1997@gmail.com](mailto:sagar.ghag1997@gmail.com) for any queries or collaboration opportunities.
 
 Thank you for visiting the **Legendary System** repository. Stay tuned for more exciting applications!
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=GhagSagar23.visitor-badge)
